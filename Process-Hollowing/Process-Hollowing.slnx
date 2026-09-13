@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../injected/injected/injected.vcxproj" Id="66dee70a-8587-4d27-8dd2-e297fe858e1a" />
+  <Project Path="Process-Hollowing/Process-Hollowing.vcxproj" Id="8b22b143-20f0-48d0-8e27-1939e3d4f846" />
+</Solution>
